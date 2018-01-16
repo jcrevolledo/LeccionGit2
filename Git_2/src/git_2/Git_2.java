@@ -17,5 +17,8 @@ public class Git_2 {
     public static void main(String[] args) {
         // TODO code application logic here
     }
+    public void revolledo_mostrar(){
+    // primera linea de cogigo
+    }
     
 }
